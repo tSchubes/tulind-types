@@ -1,5 +1,5 @@
 # Summary  
-TypeScript definitions for the NodeJS bindings of the outstanding[Tulip Indicators library](https://github.com/TulipCharts/tulipnode) by Lewis Van Winkle.  
+TypeScript definitions for the NodeJS bindings of the outstanding [Tulip Indicators library](https://github.com/TulipCharts/tulipnode) by Lewis Van Winkle.  
 Implemented as per the tulind documentation with support for both Promise based and callback based interfaces.
 
 # Installation  
